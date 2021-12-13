@@ -1,5 +1,5 @@
 baseurl: "https://example.org/"
-title: "Conference name"
+title: "ISMIS 2022"
 canonifyurls: true
 theme: "hugo-conference"
 
@@ -7,47 +7,47 @@ GoogleAnalytics: ""
 
 params:
   # Conference info
-  Name: "Conference name"
-  Description: "Conference description"
-  Date: "November 15"
-  Price: "Only $100" # If your event is free, just comment this line
-  Venue: "Coco Bongo"
-  Address: "Boulevard Kukulcan, 30"
-  City:  "Cancún"
-  State: "Quintana"
+  Name: "ISMIS 2022"
+  Description: "the 27th international symposium"
+  Date: "TBD"
+  # Price: "" # If your event is free, just comment this line
+  Venue: "Cosenza"
+  Address: "Via Pietro Bucci, 12"
+  City:  "Cosenza"
+  State: "Italy"
   Images: ["/img/badge.jpg"]
   GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
   # you can also change order here and it will reflect on page
   Sections:
-    - about
-    - location
-    - speakers
-    - schedule
+    - cfp
+    - industry
     - sponsors
-    - partners
-    #- contact
+    - venue
+    - committees
+    - schedule
+    - bp
 
   # Titles which you can translate to other languages
   Titles:
-    about: "About"
-    location: "Location"
-    speakers: "Speakers"
-    schedule: "Schedule"
+    cfp: "Call for Papers"
+    industry: "Industry Session"
     sponsors: "Sponsors"
-    partners: "Partners"
-    contact: "Contact"
+    venue: "Venue"
+    committees: "Committees"
+    schedule: "Schedule"
+    bp: "Best Papers"
 
   # The Call To Action button at the header,
   # If you don't want this, just remove the callToAction property.
-  CallToAction:
-    text: "Register now!"
-    link: "http://register.example.com"
+  # CallToAction:
+  #   text: "Register now!"
+  #   link: "http://register.example.com"
 
   # Fork me on GitHub, if you don't want this, just remove the forkButton property
-  ForkButton:
-    repository: "https://github.com/jweslley/hugo-conference/"
+  # ForkButton:
+  #   repository: "https://github.com/jweslley/hugo-conference/"
 
   # List of Sponsors
   Sponsors:
@@ -56,13 +56,13 @@ params:
       url: "http://gohugo.io"
 
   # List of Partners
-  Partners:
-    - name: "Hugo"
-      logo: "/img/hugo.jpg"
-      url: "https://gohugo.io"
-    - name: "BrazilJS"
-      logo: "/img/partner.png"
-      url: "http://braziljs.org"
+  # Partners:
+  #   - name: "Hugo"
+  #     logo: "/img/hugo.jpg"
+  #     url: "https://gohugo.io"
+  #   - name: "BrazilJS"
+  #     logo: "/img/partner.png"
+  #     url: "http://braziljs.org"
 
   # The entire schedule
   Schedule:
