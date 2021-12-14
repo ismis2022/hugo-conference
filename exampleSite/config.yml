@@ -52,7 +52,7 @@ params:
   # List of Sponsors
   Sponsors:
     - name: "ICAR-CNR"
-      logo: "/img/hugo.png"
+      logo: "/img/logo_icar.jpg"
       url: "https://www.icar.cnr.it"
 
   # List of Partners
