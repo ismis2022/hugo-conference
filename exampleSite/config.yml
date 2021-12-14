@@ -9,9 +9,9 @@ params:
   # Conference info
   Name: "ISMIS 2022"
   Description: "the 27th international symposium"
-  Date: "TBD"
+  Date: "Date TBD"
   # Price: "" # If your event is free, just comment this line
-  Venue: "25th International Symposium on Methodologies for Intelligent Systems"
+  Venue: "UNICAL - Università della Calabria"
   Address: "Via Pietro Bucci, 12"
   City:  "Cosenza"
   State: "Italy"
