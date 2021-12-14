@@ -1,4 +1,4 @@
-baseurl: "https://example.org/"
+baseurl: "http://localhost:1313/"
 title: "ISMIS 2022"
 canonifyurls: true
 theme: "hugo-conference"
@@ -51,9 +51,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "Hugo"
+    - name: "ICAR-CNR"
       logo: "/img/hugo.png"
-      url: "http://gohugo.io"
+      url: "https://www.icar.cnr.it"
 
   # List of Partners
   # Partners:
