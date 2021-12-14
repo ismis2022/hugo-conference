@@ -8,8 +8,8 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "ISMIS 2022"
-  Description: "The 25th International Symposium on Methodologies for Intelligent Systems"
-  Date: "Date TBD"
+  Description: "The 27th International Symposium on Methodologies for Intelligent Systems"
+  Date: "3rd-5th October 2022"
   # Price: "" # If your event is free, just comment this line
   Venue: "UNICAL - Università della Calabria"
   Address: "Via Pietro Bucci, 12"
