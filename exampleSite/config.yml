@@ -8,14 +8,14 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "ISMIS 2022"
-  Description: "the 27th international symposium"
+  Description: "The 25th International Symposium on Methodologies for Intelligent Systems"
   Date: "Date TBD"
   # Price: "" # If your event is free, just comment this line
   Venue: "UNICAL - Università della Calabria"
   Address: "Via Pietro Bucci, 12"
   City:  "Cosenza"
   State: "Italy"
-  Images: ["/img/cover.jpg", "/static/img/cover.jpg"]
+  Images: ["/img/cover.jpg"]
   # GoogleMapsKey: "my-secret-maps-key"
 
   # Active sections on the website to deactivate comment out with '#'
