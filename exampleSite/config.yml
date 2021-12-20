@@ -1,4 +1,4 @@
-baseurl: "http://localhost:1313/"
+baseurl: "https://ismis2022.github.io/"
 title: "ISMIS 2022"
 canonifyurls: true
 theme: "hugo-conference"
