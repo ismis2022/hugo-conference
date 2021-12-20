@@ -8,7 +8,7 @@ GoogleAnalytics: ""
 params:
   # Conference info
   Name: "ISMIS 2022"
-  Description: "The 27th International Symposium on Methodologies for Intelligent Systems"
+  Description: "The 26th International Symposium on Methodologies for Intelligent Systems"
   Date: "3rd-5th October 2022"
   # Price: "" # If your event is free, just comment this line
   Venue: "UNICAL - Università della Calabria"
@@ -31,6 +31,7 @@ params:
 
   # Titles which you can translate to other languages
   Titles:
+    home: "26th International Symposium on Methodologies for Intelligent Systems, 3rd-5th October 2022"
     cfp: "Call for Papers"
     industry: "Industry Session"
     sponsors: "Sponsors"
