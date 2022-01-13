@@ -1,4 +1,4 @@
-baseurl: "https://ismis2022.github.io/"
+baseurl: "https://ismis2022.icar.cnr.it/"
 title: "ISMIS 2022"
 canonifyurls: true
 theme: "hugo-conference"
@@ -9,12 +9,12 @@ params:
   # Conference info
   Name: "ISMIS 2022"
   Description: "The 26th International Symposium on Methodologies for Intelligent Systems"
-  Date: "3rd-5th October 2022"
+  Date: "3-5 October 2022"
   # Price: "" # If your event is free, just comment this line
-  Venue: "UNICAL - Università della Calabria"
-  Address: "Via Pietro Bucci, 12"
-  City:  "Cosenza"
-  State: "Italy"
+  Venue: "Cosenza, Italy"
+  #Address: "Via Pietro Bucci, 12"
+  #City:  "Cosenza"
+  #State: "Italy"
   Images: ["/img/cover.jpg"]
   # GoogleMapsKey: "my-secret-maps-key"
 
@@ -53,9 +53,9 @@ params:
 
   # List of Sponsors
   Sponsors:
-    - name: "ICAR-CNR"
-      logo: "/img/logo_icar.jpg"
-      url: "https://www.icar.cnr.it"
+    #- name: "ICAR-CNR"
+    #  logo: "/img/logo_icar.jpg"
+    #  url: "https://www.icar.cnr.it"
 
   # List of Partners
   # Partners:
